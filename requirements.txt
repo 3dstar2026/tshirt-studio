@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pillow
+numpy
+scipy
+requests
+pytesseract
+pydantic
+rembg
+onnxruntime
